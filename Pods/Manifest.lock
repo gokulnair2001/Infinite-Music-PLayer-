@@ -1,0 +1,20 @@
+PODS:
+  - CardSlider (0.1.0)
+  - lottie-ios (3.1.8)
+
+DEPENDENCIES:
+  - CardSlider
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - CardSlider
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  CardSlider: 0a8f5f17f5a76701771794b07fdaeddc512358c8
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+
+PODFILE CHECKSUM: 43a9a25a1174db7d70977630d69728953d8084a9
+
+COCOAPODS: 1.9.3
