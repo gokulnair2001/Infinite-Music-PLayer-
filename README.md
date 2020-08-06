@@ -1,4 +1,4 @@
-# Infinite-Music-Player-
+# Infinite (Music Player)
 Infinite is a Music Player which is quite similar to iTunes, in this you can learn three most important things: 1.To Add Lottie animation, 2.To use card slider frame work and 3. The music player :). Right now this project is very basic I will  make changes in future updates and add API such that you can search music whichever you want..
 ![Badge](https://img.shields.io/badge/License-MIT-yellow) 
 ![Badge](https://img.shields.io/badge/Xcode-11.6-green)
